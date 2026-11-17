@@ -1,0 +1,5 @@
+NEON CHASE - credits
+====================
+Game code, vector characters, city, UI and the eight synthesized sound effects were generated with Claude Code, directed and edited by the student.
+Background music: "Jairo - FLASH", supplied by the student. Confirm the licence and attribution before public release.
+Built with HTML5 Canvas, Web Audio, Node.js, Microsoft Edge, Python/Pillow and FFmpeg. No external sprites, images or web fonts are bundled.
