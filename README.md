@@ -4,6 +4,8 @@ A cute cyberpunk police-and-thief runner. One thief, one very theatrical cop, on
 
 **Play:** https://littletony233.github.io/neon-chase/
 
+[![Scan to play](qr-card.png)](https://littletony233.github.io/neon-chase/)
+
 ## Controls
 
 - Left / Right or A / D — change lane
